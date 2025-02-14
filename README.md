@@ -30,16 +30,6 @@ This project involves the development of a **machine learning model** to predict
      - **Mean Squared Error (MSE)**
      - **R² Score**
 
-## Installation & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/fuel-consumption-prediction.git
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook to train and test the model.
 
 ## Results
 - The model successfully predicts fuel consumption based on car attributes.
